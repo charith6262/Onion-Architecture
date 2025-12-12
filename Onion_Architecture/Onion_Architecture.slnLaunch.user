@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Onion_Architecture\\Onion_Architecture.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DataAccessLayer\\DataAccessLayer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DTO\\DTO.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Services\\Services.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
